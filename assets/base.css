@@ -1767,6 +1767,7 @@ input[type='checkbox'] {
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
   background-color: rgb(var(--color-background));
+  /*background-color: red;*/
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
