@@ -17,7 +17,8 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "announcement_bgcolor": "#fa5103",
+              "announcement_bgcolor": "#3a464d",
+              "announcement_text_color": "#ffffff",
               "link": "shopify:\/\/pages\/contact"
             }
           }
