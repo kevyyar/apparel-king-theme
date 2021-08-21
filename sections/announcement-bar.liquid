@@ -2,7 +2,7 @@
 {%- for block in section.blocks -%}
     {%- case block.type -%}
         {%- when 'announcement' -%}
-            <div class="announcebar announcebar1" style={{ block.settings.announcement_bgcolor }} role="region"
+            <div class="announcebar announcebar1" style="{{ block.settings.announcement_bgcolor }}" role="region"
                  aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes   }}>
                 {%- if block.settings.text != blank -%}
                     {%- if block.settings.link != blank -%}
