@@ -16,9 +16,8 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "announcement_text": "Welcome to our stor",
-              "announcement_background": "#e284e2",
-              "announcement_text_color": "#fff",
+              "text": "Welcome to our store",
+              "announcement_bgcolor": "#fa5103",
               "link": "shopify:\/\/pages\/contact"
             }
           }
