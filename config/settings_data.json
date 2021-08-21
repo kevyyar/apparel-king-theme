@@ -16,9 +16,10 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "50% Off This Weekend!",
-              "color_scheme": "inverse",
-              "link": "shopify:\/\/collections\/converse"
+              "announcement_text": "Welcome to our stor",
+              "announcement_background": "#e284e2",
+              "announcement_text_color": "#fff",
+              "link": "shopify:\/\/pages\/contact"
             }
           }
         },
